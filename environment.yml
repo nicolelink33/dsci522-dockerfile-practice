@@ -2,8 +2,7 @@ name: docker_522_practice
 channels:
   - conda-forge
 dependencies:
-  - python=3.14.0
+  - python=3.11.14
   - pandas=2.3.3
-  - altair=6.0.0
-  - conda-lock=2.5.8
+  - conda-lock=3.0.4
 prefix: /Users/Nicole/miniforge3/envs/docker_522_practice
